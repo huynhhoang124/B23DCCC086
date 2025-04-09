@@ -1,0 +1,40 @@
+/* styles.css */
+.report-page {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.report-page h2 {
+  text-align: center;
+  color: #333;
+}
+
+.report-page h3 {
+  margin-top: 20px;
+  color: #333;
+}
+
+.report-page ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.report-page ul li {
+  padding: 5px 0;
+}
+
+.report-page button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.report-page button:hover {
+  background-color: #0056b3;
+}
